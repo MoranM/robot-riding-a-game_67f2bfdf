@@ -1,0 +1,16 @@
+{
+  "name": "skatebot-alien-ascent",
+  "version": "1.0.0",
+  "description": "A basic version of the browser-based FPS game Skatebot: Alien Ascent.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "http-server public -o"
+  },
+  "dependencies": {
+    "three": "^0.150.0",
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
